@@ -729,64 +729,64 @@
   ],
   "images": [
     {
-      "uri": "textures/Concrete_Color_baseColor.jpeg"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Concrete_Color_baseColor.jpeg"
     },
     {
-      "uri": "textures/Concrete_Color_metallicRoughness.png"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Concrete_Color_metallicRoughness.png"
     },
     {
-      "uri": "textures/Concrete_Color_normal.png"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Concrete_Color_normal.png"
     },
     {
-      "uri": "textures/Wood_color_baseColor.png"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Wood_color_baseColor.png"
     },
     {
-      "uri": "textures/Wood_color_metallicRoughness.png"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Wood_color_metallicRoughness.png"
     },
     {
-      "uri": "textures/Wood_color_normal.png"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Wood_color_normal.png"
     },
     {
-      "uri": "textures/Siding_Color_baseColor.jpeg"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Siding_Color_baseColor.jpeg"
     },
     {
-      "uri": "textures/Siding_Color_metallicRoughness.png"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Siding_Color_metallicRoughness.png"
     },
     {
-      "uri": "textures/Siding_Color_normal.png"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Siding_Color_normal.png"
     },
     {
-      "uri": "textures/Metal_Color_baseColor.jpeg"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Metal_Color_baseColor.jpeg"
     },
     {
-      "uri": "textures/Metal_Color_metallicRoughness.png"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Metal_Color_metallicRoughness.png"
     },
     {
-      "uri": "textures/Metal_Color_normal.png"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Metal_Color_normal.png"
     },
     {
-      "uri": "textures/Roof_Color_baseColor.jpeg"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Roof_Color_baseColor.jpeg"
     },
     {
-      "uri": "textures/Roof_Color_metallicRoughness.png"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Roof_Color_metallicRoughness.png"
     },
     {
-      "uri": "textures/Roof_Color_normal.png"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Roof_Color_normal.png"
     },
     {
-      "uri": "textures/Metal_Color02_baseColor.jpeg"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Metal_Color02_baseColor.jpeg"
     },
     {
-      "uri": "textures/Asphalt_Color_baseColor.jpeg"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Asphalt_Color_baseColor.jpeg"
     },
     {
-      "uri": "textures/Asphalt_Color_metallicRoughness.png"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Asphalt_Color_metallicRoughness.png"
     },
     {
-      "uri": "textures/Asphalt_Color_normal.png"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Asphalt_Color_normal.png"
     },
     {
-      "uri": "textures/Asphalt_Color02_baseColor.jpeg"
+      "uri": "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures/Asphalt_Color02_baseColor.jpeg"
     }
   ],
   "materials": [
@@ -1235,7 +1235,7 @@
       ]
     }
   ],
-  "textures": [
+  "https://github.com/MonkeyLucasTV/Test3D/tree/main/modular_apartment_building/textures": [
     {
       "sampler": 0,
       "source": 0
